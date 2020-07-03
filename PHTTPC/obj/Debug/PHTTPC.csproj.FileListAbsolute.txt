@@ -1,0 +1,12 @@
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\bin\Debug\PHTTPC.exe.config
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\bin\Debug\PHTTPC.exe
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\bin\Debug\PHTTPC.pdb
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.csprojAssemblyReference.cache
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.Form1.resources
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.Properties.Resources.resources
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.csproj.GenerateResource.cache
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.exe
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.pdb
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.about.resources
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.exception_display.resources
+C:\Users\Willi\source\repos\PHTTPC\PHTTPC\obj\Debug\PHTTPC.tweaks.resources
