@@ -19,7 +19,7 @@ Get the portable release from the [Repository release page](https://github.com/W
 
 ### Author
 
-* **William Eriksen Ingebrigtsen** - [W1ll1am04](https://github.com/W1ll1am04)
+* **William E.I** - [W1ll1am04](https://github.com/W1ll1am04)
 
 ### License
 
